@@ -1,4 +1,4 @@
-# Testing APIs with Postman
+# Testing APIs with Postman.
 
 ## Learning Goals
 
